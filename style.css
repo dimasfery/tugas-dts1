@@ -1,3 +1,32 @@
+Skip to content
+Why GitHub? 
+Team
+Enterprise
+Explore 
+Marketplace
+Pricing 
+Search
+
+Sign in
+Sign up
+dede-herdian
+/
+tugas-dts1
+100
+ Code
+ Issues 0
+ Pull requests 0 Actions
+ Projects 0
+ Security 0
+ Insights
+Join GitHub today
+GitHub is home to over 50 million developers working together to host and review code, manage projects, and build software together.
+
+tugas-dts1/style.css
+@dede-herdian dede-herdian menambahkan header
+187864c 3 hours ago
+70 lines (60 sloc)  1.08 KB
+  
 * {
     box-sizing: border-box;
   }
@@ -68,3 +97,21 @@
       border-radius: 10px;
       color: #19194d;
   }
+  footer {
+    margin: 0;
+    clear: both;
+    padding: 5px;
+    background-color: rgb(211, 211, 211, 0.9);
+    color: blue;
+    text-align: center;
+
+    position:absolute;
+    bottom:0px;
+ 
+    width:100%;
+    
+}
+
+footer p {
+    padding-top: 10px;
+}
