@@ -31,7 +31,7 @@
   .header-kiri {
       float: left;
   }
-  .header-kiri h2 {
+  header #header-kiri h2 {
       margin-left: 150px;
       margin-top: 50px;
       color: navy;
